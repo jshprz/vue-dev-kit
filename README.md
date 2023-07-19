@@ -1,1 +1,1 @@
-# Vue Dev Kit
+# Vue + Tailwind + Vite
