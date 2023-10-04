@@ -6,9 +6,10 @@ Are you unsure about how to start building a production-ready frontend for your 
 
 ## Features
 
-- Out-of-the-box configuration for VueJS, Tailwind CSS, and ViteJS.
-- A pre-installed linter powered by eslint-airbnb to ensure your JavaScript code follows best practices.
-- Adheres to the [Airbnb JavaScript Style Guide](https://airbnb.io/javascript/).
+- Out-of-the-box configuration for VueJS 3, Tailwind CSS, and ViteJS.
+- Typescript compatibility.
+- A pre-installed linter and prettier powered by eslint to ensure your JavaScript code follows best practices.
+- Adheres to the [Typescript-eslint style guide](https://typescript-eslint.io/getting-started/).
 
 ## Recommended IDE Setup
 
